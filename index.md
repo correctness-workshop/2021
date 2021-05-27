@@ -7,7 +7,7 @@ comments: false
 <img src="img/picture.jpg" alt="Drawing" style="width:1200px;" />
 
 <center><h2>Correctness 2021: Fifth International Workshop on Software Correctness for HPC Applications</h2></center>
-<center><h4> November 14, 2021 (half day, Time: TBD) </h4></center>
+<center><h4> November 19, 2021 (half day, 8:30am - 12pm CST) </h4></center>
 <center><h4> America’s Center Convention Complex </h4></center>
 <center><h4> St. Louis, MO, USA </h4></center>
 <center><h5> Held in conjunction with SC21: <a href="https://sc21.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
@@ -91,6 +91,12 @@ The proceedings will be archived in IEEE Xplore via [TCHPC](https://tc.computer.
 All time zones are AOE.
 
 ---
+### <a class="anchor" name="date">Workshop Date</a>
+
+- Half-day Workshop
+- November 19, 2021, 8:30am - 12pm CST
+
+---
 ### <a class="anchor" name="org">Organizers</a>
 
 [Ignacio Laguna](http://lagunaresearch.org/), LLNL <br />
@@ -119,7 +125,8 @@ All time zones are AOE.
 ---
 ### <a class="anchor" name="venue">Venue</a>
 
-TBD
+- America’s Center Convention Complex, St. Louis, MO, USA
+- Room: TBD
 
 ---
 ### <a class="anchor" name="program">Program</a>
