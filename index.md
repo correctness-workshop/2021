@@ -150,7 +150,7 @@ All time zones are AOE.
 <table>
 <tr><td width="15">  </td> <td>10:30am - 10:50am:  Paper 3: <b>"Performance of Dynamic Data Race Detection"</b>, Jonas Wahle, Isabel Thärigen, Joachim Protze </td> </tr>
 <tr><td width="15">  </td> <td>10:50am - 11:10am:  Paper 4: <b>"High-Precision Evaluation of Both Static and Dynamic Tools using DataRaceBench"</b>, Pei-Hung Lin, Chunhua Liao </td> </tr>
-<tr><td width="15">  </td> <td>11:10am - 12:00pm:  Pannel Discussion </td> </tr>
+<tr><td width="15">  </td> <td>11:10am - 12:00pm:  Panel Discussion </td> </tr>
 </table>
 
 ---
