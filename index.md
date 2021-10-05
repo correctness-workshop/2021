@@ -132,7 +132,34 @@ All time zones are AOE.
 ### <a class="anchor" name="program">Program</a>
 <br />
 
-TBD
+#### Workshop Schedule
+<br />
+
+###### Session 1
+<table>
+<tr><td width="15">  </td> <td>8:30am - 8:40pm:  Opening remarks    </td> </tr>
+<tr><td width="15">  </td> <td>8:40am - 9:00am:  Invited Paper 1:  <b>"Finding Large Poisson Polynomials Using Four-Level Variable Precision"</b>, David H. Bailey (University of California, Davis) </td> </tr>
+<tr><td width="15">  </td> <td>9:00am - 9:20am:  Paper 1: <b>"Guarding Numerics Amidst Rising Heterogeneity"</b>, Ganesh Gopalakrishnan, Zachary Tatlock, Ang Li, Ignacio Laguna, Pavel Panchekha, Cindy Rubio-González  </td> </tr>
+<tr><td width="15">  </td> <td>9:20am - 9:40am:  Paper 2: <b>"The MPI BUGS INITIATIVE: a Framework for MPI Verification Tools Evaluation"</b>, Mathieu Laurent, Martin Quinson, Emmanuelle Saillard  </td> </tr>
+</table>
+<tr><td width="15">  </td> <td>9:40am - 10:00am:  Invited Paper 2: <b>"OpenRace: An Open Source Framework for Statically Detecting Data Races"</b>, Bozhen Liu, Yanze Li, Bradley Swain, Bradley Swain, Peiming Liu, Jeff Huang, Addison Crump, Rohan Khera  </td> </tr>
+</table>
+
+###### Break
+<table>
+<tr><td width="15">  </td> <td> 10:00am - 10:30am:  Break </td> </tr>
+</table>
+
+###### Session 2
+<table>
+<tr><td width="15">  </td> <td>10:30am - 10:50am:  Paper 3: <b>"Performance of Dynamic Data Race Detection"</b>, Jonas Wahle, Isabel Thärigen, Joachim Protze </td> </tr>
+<tr><td width="15">  </td> <td>10:50am - 11:10am:  Paper 4: <b>"High-Precision Evaluation of Both Static and Dynamic Tools using DataRaceBench"</b>, Pei-Hung Lin, Chunhua Liao </td> </tr>
+</table>
+
+###### Pannel Discussion
+<table>
+<tr><td width="15">  </td> <td>11:10am - 12:00pm:  Pannel Discussion </td> </tr>
+</table>
 
 ---
 ###  <a class="anchor" name="contact">Contact Information</a>
