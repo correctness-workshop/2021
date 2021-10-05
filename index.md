@@ -132,9 +132,6 @@ All time zones are AOE.
 ### <a class="anchor" name="program">Program</a>
 <br />
 
-#### Workshop Schedule
-<br />
-
 ###### Session 1
 <table>
 <tr><td width="15">  </td> <td>8:30am - 8:40pm:  Opening remarks    </td> </tr>
