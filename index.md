@@ -150,8 +150,16 @@ All time zones are AOE.
 <table>
 <tr><td width="15">  </td> <td>10:30am - 10:50am:  Paper 3: <b>"Performance of Dynamic Data Race Detection"</b>, Joachim Protze, Isabel Thärigen,  Jonas Wahle </td> </tr>
 <tr><td width="15">  </td> <td>10:50am - 11:10am:  Paper 4: <b>"High-Precision Evaluation of Both Static and Dynamic Tools using DataRaceBench"</b>, Pei-Hung Lin, Chunhua Liao </td> </tr>
-<tr><td width="15">  </td> <td>11:10am - 12:00pm:  Panel Discussion </td> </tr>
+<tr><td width="15">  </td> <td>11:10am - 12:00pm:  Plenary Session: "Building a Bug Hunting Competition for HPC Correctness" </td> </tr>
+<tr> <td width="15">  </td> <td> • Cindy Rubio-González (UC Davis)</td></tr>
+<tr> <td width="15">  </td> <td> • Martin Quinson (ENS Rennes) (UC Davis)</td></tr>
+<tr> <td width="15">  </td> <td> • Chunhua Liao (LLNL) (UC Davis)</td></tr>
+<tr> <td width="15">  </td> <td> • Joachim Protze (RWTH Aachen University)</td></tr>
+<tr> <td width="15">  </td> <td> • Input from the audience</td></tr>
 </table>
+
+#### Building a Bug Hunting Competition for HPC Correctness
+Why the competition? The goal of the competition is to stimulate the development of correctness tools and the improvement of existing ones in the domain of HPC. As HPC applications become more complex and heterogeneous, we would like to discuss as a community: (1) potential benchmark suites for correctness tools, (2) metrics and criteria for comparing tools, (3) databases of bug reports and/or reproducible test cases, (4) defining the competition rules, and (5) important classes of bugs or correctness issues to address. The section 5.4 of the DOE Report of the HPC Correctness Summit highlights some of the benefits for such competitions: https://www.osti.gov/biblio/1470989.
 
 ---
 ###  <a class="anchor" name="contact">Contact Information</a>
