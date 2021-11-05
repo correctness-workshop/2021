@@ -150,7 +150,7 @@ All time zones are AOE.
 <table>
 <tr><td width="15">  </td> <td>10:30am - 10:50am:  Paper 3: <b>"Performance of Dynamic Data Race Detection"</b>, Joachim Protze, Isabel Thärigen,  Jonas Wahle </td> </tr>
 <tr><td width="15">  </td> <td>10:50am - 11:10am:  Paper 4: <b>"High-Precision Evaluation of Both Static and Dynamic Tools using DataRaceBench"</b>, Pei-Hung Lin, Chunhua Liao </td> </tr>
-<tr><td width="15">  </td> <td>11:10am - 12:00pm:  Plenary Session: "Building a Bug Hunting Competition for HPC Correctness", Cindy Rubio-González (UC Davis),  Martin Quinson (ENS Rennes), Chunhua Liao (LLNL), Joachim Protze (RWTH Aachen University) </td> </tr>
+<tr><td width="15">  </td> <td>11:10am - 12:00pm:  Plenary Session: "Building a Bug Hunting Competition for HPC Correctness", Cindy Rubio-González (UC Davis),  Martin Quinson (ENS Rennes), Chunhua Liao (LLNL), Joachim Protze (RWTH Aachen University), Markus Schordan (LLNL) </td> </tr>
 </table>
 
 #### Building a Bug Hunting Competition for HPC Correctness
